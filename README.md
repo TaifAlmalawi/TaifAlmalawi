@@ -8,11 +8,11 @@ I've worked on several projects combining data science, web development, and clo
 
 ## 🚀 Skills
 
-- 💻 Programming: Python, SQL, HTML, CSS, JavaScript
+- 💻 Programming: Python, SQL
 - 🧠 Machine Learning: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - 🔍 Data Analysis: EDA, Data Cleaning, Feature Engineering
-- 🌐 Web Development: Flask, MySQL, RESTful APIs
-- ☁️ Cloud Tools: Google Cloud Platform (GCP), BigQuery, gsutil, Docker
+- 🌐 Web Development: Flask, MySQL
+- ☁️ Cloud Tools: Google Cloud Platform (GCP), BigQuery, Docker
 - 🛠️ Tools: Git, GitHub, VS Code, Jupyter Notebook
 
 ---
