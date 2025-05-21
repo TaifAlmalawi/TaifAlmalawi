@@ -30,7 +30,7 @@ I've worked on several projects combining data science, web development, and clo
 ## 📬 Contact Me
 
 - 📧 Email: [taifalmalawi@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/taif-almalawi]
+- 💼 LinkedIn: [https://www.linkedin.com/in/taif-almalawi/]
   
 ---
 
